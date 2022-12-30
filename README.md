@@ -4,11 +4,11 @@ record เตือนความจำการใช้งาน Docker Larav
 # Instaill Laravel
 composer update
 
-# Detail Laravel9 Docker Image
+# Docker Image
 - Nginx
 - Laravel 8
 - PHP 8 FPM
 - Supervisor
 
 # Build this Image
-docker build -t <your-image-name> .
+docker build -t xxnamexx .
